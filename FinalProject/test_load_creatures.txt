@@ -1,0 +1,3 @@
+1,Some,50,M,Dragon,85
+2,Temporary,72,F,Phoenix,85
+3,Information,32,M,Unicorn,Red
